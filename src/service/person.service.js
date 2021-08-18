@@ -19,5 +19,4 @@ const personService = {
   getMaisVendidos: async()=>{ return await personRepository.getMaisVendidos()}
 
 }
-
 export default personService;
